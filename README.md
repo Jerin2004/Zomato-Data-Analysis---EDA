@@ -40,7 +40,7 @@ Welcome to the Zomato Data Analysis Project! This project is all about diving de
 ---
 
 ## 📸 Preview
-![Zomato Analysis](https://via.placeholder.com/800x400?text=Zomato+Data+Analysis)
+![Zomato Analysis](https://github.com/Jerin2004/Zomato-Data-Analysis---EDA/blob/main/Zomato_logo.png)
 
 
 ## 🚀 Let's Analyze!
