@@ -42,15 +42,6 @@ Welcome to the Zomato Data Analysis Project! This project is all about diving de
 ## 📸 Preview
 ![Zomato Analysis](https://via.placeholder.com/800x400?text=Zomato+Data+Analysis)
 
----
-
-## 🔗 Get in Touch
-Have questions or feedback? Feel free to connect!  
-🌐 Website: [The iScale](http://www.theiscale.com/)  
-📧 Contact: [theiscale.founders@gmail.com](mailto:theiscale.founders@gmail.com)  
-📸 Instagram: [@theiscale](http://instagram.com/theiscale)  
-
----
 
 ## 🚀 Let's Analyze!
 Ready to explore Zomato's world of data? Clone this repository and start uncovering insights! 🎉
