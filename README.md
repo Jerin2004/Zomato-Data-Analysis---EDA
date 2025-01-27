@@ -1,5 +1,9 @@
 # 🍽️ Zomato Data Analysis Project 🚀
 
+## 📸 
+![Zomato Analysis](https://github.com/Jerin2004/Zomato-Data-Analysis---EDA/blob/main/Zomato_logo.png)
+
+
 Welcome to the Zomato Data Analysis Project! This project is all about diving deep into Zomato's dataset to extract valuable insights and visualize trends in customer behavior and restaurant performance.
 
 ---
@@ -39,8 +43,6 @@ Welcome to the Zomato Data Analysis Project! This project is all about diving de
 
 ---
 
-## 📸 Preview
-![Zomato Analysis](https://github.com/Jerin2004/Zomato-Data-Analysis---EDA/blob/main/Zomato_logo.png)
 
 
 ## 🚀 Let's Analyze!
